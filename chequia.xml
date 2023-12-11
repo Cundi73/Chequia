@@ -1,0 +1,931 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ČT4 Sport">
+    <display-name lang="cs">ČT4 Sport</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct4.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="cs">Eurosport 1</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/eurosport1.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="cs">Eurosport 2</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/eurosport2.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Nova Sport 1">
+    <display-name lang="cs">Nova Sport 1</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_1.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Nova Sport 2">
+    <display-name lang="cs">Nova Sport 2</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Nova Sport 3">
+    <display-name lang="cs">Nova Sport 3</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_3.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Nova Sport 4">
+    <display-name lang="cs">Nova Sport 4</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_4.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="O2 Info 1">
+    <display-name lang="cs">O2 Info 1</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/o2tv.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="O2 Sport">
+    <display-name lang="cs">O2 Sport</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/o2_sport.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="O2TV Fotbal">
+    <display-name lang="cs">O2TV Fotbal</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/o2tv_fotbal.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="O2TV Sport5">
+    <display-name lang="cs">O2TV Sport5</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/o2tv_sport5.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="O2TV Sport6">
+    <display-name lang="cs">O2TV Sport6</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/o2tv_sport65.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="O2TV Tenis">
+    <display-name lang="cs">O2TV Tenis</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/o2tv_tenis.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Premier Sport 2">
+    <display-name lang="cs">Premier Sport 2</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/premiersport2.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Sport 5">
+    <display-name lang="cs">Sport 5</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sport5.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Sport1">
+    <display-name lang="cs">Sport1</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sport1.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Sport2">
+    <display-name lang="cs">Sport2</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sport2.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Arena Sport 1">
+    <display-name lang="cs">Arena Sport 1</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/arenasport.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Arena Sport 2">
+    <display-name lang="cs">Arena Sport 2</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/arenasport2.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="JOJ">
+    <display-name lang="cs">JOJ</display-name>
+    <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/JOJ.png" />
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="JOJ Plus">
+    <display-name lang="cs">JOJ Plus</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="JOJ Šport">
+    <display-name lang="cs">JOJ Šport</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Jojko">
+    <display-name lang="cs">Jojko</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Orange Sport 2 HD">
+    <display-name lang="cs">Orange Sport 2 HD</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Orange Sport 3 HD">
+    <display-name lang="cs">Orange Sport 3 HD</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Orange Sport 4 HD">
+    <display-name lang="cs">Orange Sport 4 HD</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Orange Sport HD">
+    <display-name lang="cs">Orange Sport HD</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Premier Sport 1">
+    <display-name lang="cs">Premier Sport 1</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="KHL TV">
+    <display-name lang="cs">KHL TV</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <programme start="20231212052500 +0100" stop="20231212054700 +0100" channel="ČT4 Sport">
+    <title lang="cs">Paralympijský magazín</title>
+  </programme>
+  <programme start="20231212054700 +0100" stop="20231212060000 +0100" channel="ČT4 Sport">
+    <title lang="cs">Branky, body, vteřiny</title>
+  </programme>
+  <programme start="20231212060000 +0100" stop="20231212075000 +0100" channel="ČT4 Sport">
+    <title lang="cs">Házená: Německo - Dánsko</title>
+  </programme>
+  <programme start="20231212075000 +0100" stop="20231212080000 +0100" channel="ČT4 Sport">
+    <title lang="cs">Běžkotoulky</title>
+  </programme>
+  <programme start="20231212080000 +0100" stop="20231212083500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Panorama</title>
+  </programme>
+  <programme start="20231212083500 +0100" stop="20231212085000 +0100" channel="ČT4 Sport">
+    <title lang="cs">BBV po 25 letech</title>
+  </programme>
+  <programme start="20231212085000 +0100" stop="20231212120500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Klasické lyžování: Bad Gastein Criterium</title>
+  </programme>
+  <programme start="20231212120500 +0100" stop="20231212122400 +0100" channel="ČT4 Sport">
+    <title lang="cs">Panorama</title>
+  </programme>
+  <programme start="20231212122400 +0100" stop="20231212125500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Sportovní zprávy</title>
+  </programme>
+  <programme start="20231212125500 +0100" stop="20231212132100 +0100" channel="ČT4 Sport">
+    <title lang="cs">Archiv D: Josef Rakoncaj</title>
+  </programme>
+  <programme start="20231212132100 +0100" stop="20231212133500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Sokolský zpravodaj</title>
+  </programme>
+  <programme start="20231212133500 +0100" stop="20231212140500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Cyklokros: Toi Toi Cup Hlinsko</title>
+  </programme>
+  <programme start="20231212140500 +0100" stop="20231212152500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Cyklokros: SP Itálie</title>
+  </programme>
+  <programme start="20231212152500 +0100" stop="20231212171500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Florbal: Švédsko - Finsko</title>
+  </programme>
+  <programme start="20231212171500 +0100" stop="20231212191500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Házená: Francie - Česko</title>
+  </programme>
+  <programme start="20231212191500 +0100" stop="20231212194000 +0100" channel="ČT4 Sport">
+    <title lang="cs">Vzpírání: TOP 12 Havířov</title>
+  </programme>
+  <programme start="20231212194000 +0100" stop="20231212200500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Paralympijský magazín</title>
+  </programme>
+  <programme start="20231212200500 +0100" stop="20231212220000 +0100" channel="ČT4 Sport">
+    <title lang="cs">Freestyle lyžování: SP Švýcarsko</title>
+  </programme>
+  <programme start="20231212220000 +0100" stop="20231212225000 +0100" channel="ČT4 Sport">
+    <title lang="cs">Fotbal: Magazín UEFA</title>
+  </programme>
+  <programme start="20231212225000 +0100" stop="20231212230500 +0100" channel="ČT4 Sport">
+    <title lang="cs">Fotbal: Fotbal s chutí vyhrávat</title>
+  </programme>
+  <programme start="20231212230500 +0100" stop="20231213000000 +0100" channel="ČT4 Sport">
+    <title lang="cs">Fotbal: Liga Mistrů UEFA</title>
+  </programme>
+  <programme start="20231212063000 +0100" stop="20231212070000 +0100" channel="Eurosport 1">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212070000 +0100" stop="20231212073000 +0100" channel="Eurosport 1">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212073000 +0100" stop="20231212080000 +0100" channel="Eurosport 1">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212080000 +0100" stop="20231212083000 +0100" channel="Eurosport 1">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212083000 +0100" stop="20231212103000 +0100" channel="Eurosport 1">
+    <title lang="cs">Snooker</title>
+  </programme>
+  <programme start="20231212103000 +0100" stop="20231212113000 +0100" channel="Eurosport 1">
+    <title lang="cs">Judo</title>
+  </programme>
+  <programme start="20231212113000 +0100" stop="20231212121500 +0100" channel="Eurosport 1">
+    <title lang="cs">Alpské lyžování</title>
+  </programme>
+  <programme start="20231212121500 +0100" stop="20231212130000 +0100" channel="Eurosport 1">
+    <title lang="cs">Alpské lyžování</title>
+  </programme>
+  <programme start="20231212130000 +0100" stop="20231212140000 +0100" channel="Eurosport 1">
+    <title lang="cs">Snooker</title>
+  </programme>
+  <programme start="20231212140000 +0100" stop="20231212180000 +0100" channel="Eurosport 1">
+    <title lang="cs">Snooker</title>
+  </programme>
+  <programme start="20231212180000 +0100" stop="20231212183000 +0100" channel="Eurosport 1">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212183000 +0100" stop="20231212190000 +0100" channel="Eurosport 1">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212190000 +0100" stop="20231212200000 +0100" channel="Eurosport 1">
+    <title lang="cs">Jezdectví</title>
+  </programme>
+  <programme start="20231212200000 +0100" stop="20231213000000 +0100" channel="Eurosport 1">
+    <title lang="cs">Snooker</title>
+  </programme>
+  <programme start="20231212053000 +0100" stop="20231212063000 +0100" channel="Eurosport 2">
+    <title lang="cs">Skoky na lyžích</title>
+  </programme>
+  <programme start="20231212063000 +0100" stop="20231212083000 +0100" channel="Eurosport 2">
+    <title lang="cs">Snooker</title>
+  </programme>
+  <programme start="20231212083000 +0100" stop="20231212090000 +0100" channel="Eurosport 2">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212090000 +0100" stop="20231212093000 +0100" channel="Eurosport 2">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212093000 +0100" stop="20231212100000 +0100" channel="Eurosport 2">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212100000 +0100" stop="20231212103000 +0100" channel="Eurosport 2">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212103000 +0100" stop="20231212123000 +0100" channel="Eurosport 2">
+    <title lang="cs">Snooker</title>
+  </programme>
+  <programme start="20231212123000 +0100" stop="20231212133000 +0100" channel="Eurosport 2">
+    <title lang="cs">Alpské lyžování</title>
+  </programme>
+  <programme start="20231212133000 +0100" stop="20231212143000 +0100" channel="Eurosport 2">
+    <title lang="cs">Alpské lyžování</title>
+  </programme>
+  <programme start="20231212143000 +0100" stop="20231212153000 +0100" channel="Eurosport 2">
+    <title lang="cs">Skoky na lyžích</title>
+  </programme>
+  <programme start="20231212153000 +0100" stop="20231212163000 +0100" channel="Eurosport 2">
+    <title lang="cs">Skoky na lyžích</title>
+  </programme>
+  <programme start="20231212163000 +0100" stop="20231212173000 +0100" channel="Eurosport 2">
+    <title lang="cs">Alpské lyžování</title>
+  </programme>
+  <programme start="20231212173000 +0100" stop="20231212183000 +0100" channel="Eurosport 2">
+    <title lang="cs">Alpské lyžování</title>
+  </programme>
+  <programme start="20231212183000 +0100" stop="20231212200000 +0100" channel="Eurosport 2">
+    <title lang="cs">Freestylové lyžování</title>
+  </programme>
+  <programme start="20231212200000 +0100" stop="20231212211500 +0100" channel="Eurosport 2">
+    <title lang="cs">Freestylové lyžování</title>
+  </programme>
+  <programme start="20231212211500 +0100" stop="20231212220000 +0100" channel="Eurosport 2">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212220000 +0100" stop="20231212230000 +0100" channel="Eurosport 2">
+    <title lang="cs">Biatlon</title>
+  </programme>
+  <programme start="20231212230000 +0100" stop="20231213001500 +0100" channel="Eurosport 2">
+    <title lang="cs">Alpské lyžování</title>
+  </programme>
+  <programme start="20231212053000 +0100" stop="20231212070000 +0100" channel="Nova Sport 1">
+    <title lang="cs">Noční program</title>
+  </programme>
+  <programme start="20231212070000 +0100" stop="20231212070500 +0100" channel="Nova Sport 1">
+    <title lang="cs">Sportovní noviny</title>
+  </programme>
+  <programme start="20231212070500 +0100" stop="20231212084500 +0100" channel="Nova Sport 1">
+    <title lang="cs">Linköping IBK - Storvreta IBK</title>
+  </programme>
+  <programme start="20231212084500 +0100" stop="20231212091500 +0100" channel="Nova Sport 1">
+    <title lang="cs">WES E-Bike World Series #6 &amp; #7</title>
+  </programme>
+  <programme start="20231212091500 +0100" stop="20231212110000 +0100" channel="Nova Sport 1">
+    <title lang="cs">New York Islanders - Toronto Maple Leafs</title>
+  </programme>
+  <programme start="20231212110000 +0100" stop="20231212110500 +0100" channel="Nova Sport 1">
+    <title lang="cs">Ranní Sportovní noviny</title>
+  </programme>
+  <programme start="20231212110500 +0100" stop="20231212124500 +0100" channel="Nova Sport 1">
+    <title lang="cs">Colorado Avalanche - Calgary Flames</title>
+  </programme>
+  <programme start="20231212124500 +0100" stop="20231212130000 +0100" channel="Nova Sport 1">
+    <title lang="cs">České taekwondo ITF</title>
+  </programme>
+  <programme start="20231212130000 +0100" stop="20231212130500 +0100" channel="Nova Sport 1">
+    <title lang="cs">Polední Sportovní noviny</title>
+  </programme>
+  <programme start="20231212130500 +0100" stop="20231212143500 +0100" channel="Nova Sport 1">
+    <title lang="cs">SG Flensburg-Handewitt - HSG Wetzlar</title>
+  </programme>
+  <programme start="20231212143500 +0100" stop="20231212150500 +0100" channel="Nova Sport 1">
+    <title lang="cs">TITAN DESERT SERIES - Almeria</title>
+  </programme>
+  <programme start="20231212150500 +0100" stop="20231212160000 +0100" channel="Nova Sport 1">
+    <title lang="cs">Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20231212160000 +0100" stop="20231212163000 +0100" channel="Nova Sport 1">
+    <title lang="cs">1:1 Sport Show</title>
+  </programme>
+  <programme start="20231212163000 +0100" stop="20231212181000 +0100" channel="Nova Sport 1">
+    <title lang="cs">New York Islanders - Toronto Maple Leafs</title>
+  </programme>
+  <programme start="20231212181000 +0100" stop="20231212182500 +0100" channel="Nova Sport 1">
+    <title lang="cs">NHL News</title>
+  </programme>
+  <programme start="20231212182500 +0100" stop="20231212202500 +0100" channel="Nova Sport 1">
+    <title lang="cs">BK Opava - Rytas Vilnius</title>
+  </programme>
+  <programme start="20231212202500 +0100" stop="20231212223000 +0100" channel="Nova Sport 1">
+    <title lang="cs">Filou Oostende - SIG Štrasburk</title>
+  </programme>
+  <programme start="20231212223000 +0100" stop="20231212230000 +0100" channel="Nova Sport 1">
+    <title lang="cs">Dakar 2024 - Odhalení trasy</title>
+  </programme>
+  <programme start="20231212230000 +0100" stop="20231212230500 +0100" channel="Nova Sport 1">
+    <title lang="cs">Sportovní noviny</title>
+  </programme>
+  <programme start="20231212230500 +0100" stop="20231212232000 +0100" channel="Nova Sport 1">
+    <title lang="cs">NHL News</title>
+  </programme>
+  <programme start="20231212232000 +0100" stop="20231213010500 +0100" channel="Nova Sport 1">
+    <title lang="cs">Colorado Avalanche - Calgary Flames</title>
+  </programme>
+  <programme start="20231212061500 +0100" stop="20231212070000 +0100" channel="Nova Sport 2">
+    <title lang="cs">Noční program</title>
+  </programme>
+  <programme start="20231212070000 +0100" stop="20231212084500 +0100" channel="Nova Sport 2">
+    <title lang="cs">Stade Rennes - AS Monaco</title>
+  </programme>
+  <programme start="20231212084500 +0100" stop="20231212094500 +0100" channel="Nova Sport 2">
+    <title lang="cs">Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20231212094500 +0100" stop="20231212103000 +0100" channel="Nova Sport 2">
+    <title lang="cs">GÓÓÓL</title>
+  </programme>
+  <programme start="20231212103000 +0100" stop="20231212120000 +0100" channel="Nova Sport 2">
+    <title lang="cs">SG Flensburg-Handewitt - HSG Wetzlar</title>
+  </programme>
+  <programme start="20231212120000 +0100" stop="20231212123000 +0100" channel="Nova Sport 2">
+    <title lang="cs">GKA Kitesurfing World Tour - The Stars of Wave</title>
+  </programme>
+  <programme start="20231212123000 +0100" stop="20231212130000 +0100" channel="Nova Sport 2">
+    <title lang="cs">DFB-Pokal Highlights</title>
+  </programme>
+  <programme start="20231212130000 +0100" stop="20231212144500 +0100" channel="Nova Sport 2">
+    <title lang="cs">Montpellier HSC - RC Lens</title>
+  </programme>
+  <programme start="20231212144500 +0100" stop="20231212163000 +0100" channel="Nova Sport 2">
+    <title lang="cs">Colorado Avalanche - Calgary Flames</title>
+  </programme>
+  <programme start="20231212163000 +0100" stop="20231212175500 +0100" channel="Nova Sport 2">
+    <title lang="cs">MT Melsungen - SC Magdeburg</title>
+  </programme>
+  <programme start="20231212175500 +0100" stop="20231212182500 +0100" channel="Nova Sport 2">
+    <title lang="cs">WES E-Bike World Series #6 &amp; #7</title>
+  </programme>
+  <programme start="20231212182500 +0100" stop="20231212185500 +0100" channel="Nova Sport 2">
+    <title lang="cs">European Freestyle Pro Tourstop Geneva</title>
+  </programme>
+  <programme start="20231212185500 +0100" stop="20231212210000 +0100" channel="Nova Sport 2">
+    <title lang="cs">Al-Ittihad FC - Auckland City FC</title>
+  </programme>
+  <programme start="20231212210000 +0100" stop="20231212213000 +0100" channel="Nova Sport 2">
+    <title lang="cs">GKA Kitesurfing World Tour - The Stars of Freestyle</title>
+  </programme>
+  <programme start="20231212213000 +0100" stop="20231212220000 +0100" channel="Nova Sport 2">
+    <title lang="cs">WES E-Bike World Series #5 &amp; World Rookie Tour Finals</title>
+  </programme>
+  <programme start="20231212220000 +0100" stop="20231212223000 +0100" channel="Nova Sport 2">
+    <title lang="cs">FEI Světový pohár Rijád 2023</title>
+  </programme>
+  <programme start="20231212223000 +0100" stop="20231212230000 +0100" channel="Nova Sport 2">
+    <title lang="cs">Český motorsport 2023</title>
+  </programme>
+  <programme start="20231212230000 +0100" stop="20231212234500 +0100" channel="Nova Sport 2">
+    <title lang="cs">K.O. magazin</title>
+  </programme>
+  <programme start="20231212234500 +0100" stop="20231213013500 +0100" channel="Nova Sport 2">
+    <title lang="cs">Žilina - Trnava</title>
+  </programme>
+  <programme start="20231212070000 +0100" stop="20231212084500 +0100" channel="Nova Sport 3">
+    <title lang="cs">CD Tenerife - AD Alcorcón</title>
+  </programme>
+  <programme start="20231212084500 +0100" stop="20231212104500 +0100" channel="Nova Sport 3">
+    <title lang="cs">Rayo Vallecano - Celta Vigo</title>
+  </programme>
+  <programme start="20231212104500 +0100" stop="20231212123000 +0100" channel="Nova Sport 3">
+    <title lang="cs">Atalanta Bergamo - AC Milán</title>
+  </programme>
+  <programme start="20231212123000 +0100" stop="20231212130000 +0100" channel="Nova Sport 3">
+    <title lang="cs">LaLiga Chronicles</title>
+  </programme>
+  <programme start="20231212130000 +0100" stop="20231212150000 +0100" channel="Nova Sport 3">
+    <title lang="cs">RCD Mallorca - Sevilla FC</title>
+  </programme>
+  <programme start="20231212150000 +0100" stop="20231212153000 +0100" channel="Nova Sport 3">
+    <title lang="cs">LaLiga Best 11</title>
+  </programme>
+  <programme start="20231212153000 +0100" stop="20231212173000 +0100" channel="Nova Sport 3">
+    <title lang="cs">FC Barcelona - Girona FC</title>
+  </programme>
+  <programme start="20231212173000 +0100" stop="20231212180000 +0100" channel="Nova Sport 3">
+    <title lang="cs">Magazín Ligy mistrů UEFA</title>
+  </programme>
+  <programme start="20231212180000 +0100" stop="20231212204500 +0100" channel="Nova Sport 3">
+    <title lang="cs">PSV Eindhoven - Arsenal FC</title>
+  </programme>
+  <programme start="20231212204500 +0100" stop="20231212231500 +0100" channel="Nova Sport 3">
+    <title lang="cs">Union Berlín - Real Madrid</title>
+  </programme>
+  <programme start="20231212231500 +0100" stop="20231212234500 +0100" channel="Nova Sport 3">
+    <title lang="cs">Liga mistrů UEFA Highlights</title>
+  </programme>
+  <programme start="20231212234500 +0100" stop="20231213014500 +0100" channel="Nova Sport 3">
+    <title lang="cs">Eintracht Frankfurt - Bayern Mnichov</title>
+  </programme>
+  <programme start="20231212070000 +0100" stop="20231212084500 +0100" channel="Nova Sport 4">
+    <title lang="cs">Cagliari Calcio - US Sassuolo</title>
+  </programme>
+  <programme start="20231212084500 +0100" stop="20231212104500 +0100" channel="Nova Sport 4">
+    <title lang="cs">Empoli FC - US Lecce</title>
+  </programme>
+  <programme start="20231212104500 +0100" stop="20231212111500 +0100" channel="Nova Sport 4">
+    <title lang="cs">Magazín Ligy mistrů UEFA</title>
+  </programme>
+  <programme start="20231212111500 +0100" stop="20231212121500 +0100" channel="Nova Sport 4">
+    <title lang="cs">Bundesliga Highlights</title>
+  </programme>
+  <programme start="20231212121500 +0100" stop="20231212140000 +0100" channel="Nova Sport 4">
+    <title lang="cs">VfB Stuttgart - Bayer Leverkusen</title>
+  </programme>
+  <programme start="20231212140000 +0100" stop="20231212154500 +0100" channel="Nova Sport 4">
+    <title lang="cs">Inter Milán - Udinese Calcio</title>
+  </programme>
+  <programme start="20231212154500 +0100" stop="20231212161500 +0100" channel="Nova Sport 4">
+    <title lang="cs">Bundesliga Special</title>
+  </programme>
+  <programme start="20231212161500 +0100" stop="20231212181500 +0100" channel="Nova Sport 4">
+    <title lang="cs">Borussia Dortmund - RB Lipsko</title>
+  </programme>
+  <programme start="20231212181500 +0100" stop="20231212204500 +0100" channel="Nova Sport 4">
+    <title lang="cs">RC Lens - Sevilla FC</title>
+  </programme>
+  <programme start="20231212204500 +0100" stop="20231212231500 +0100" channel="Nova Sport 4">
+    <title lang="cs">FC Kodaň - Galatasaray SK</title>
+  </programme>
+  <programme start="20231212231500 +0100" stop="20231213010000 +0100" channel="Nova Sport 4">
+    <title lang="cs">1. FC Köln - 1. FSV Mainz 05</title>
+  </programme>
+  <programme start="20231212000000 +0100" stop="20231212010000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212010000 +0100" stop="20231212020000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212020000 +0100" stop="20231212030000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212030000 +0100" stop="20231212040000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212040000 +0100" stop="20231212050000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212050000 +0100" stop="20231212060000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212060000 +0100" stop="20231212070000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212070000 +0100" stop="20231212080000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212080000 +0100" stop="20231212090000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212090000 +0100" stop="20231212100000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212100000 +0100" stop="20231212110000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212110000 +0100" stop="20231212120000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212120000 +0100" stop="20231212130000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212130000 +0100" stop="20231212140000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212140000 +0100" stop="20231212150000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212150000 +0100" stop="20231212160000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212160000 +0100" stop="20231212170000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212170000 +0100" stop="20231212180000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212180000 +0100" stop="20231212190000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212190000 +0100" stop="20231212200000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212200000 +0100" stop="20231212210000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212210000 +0100" stop="20231212220000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212220000 +0100" stop="20231212230000 +0100" channel="O2 Info 1">
+    <title lang="cs">Infokanál O2TV</title>
+  </programme>
+  <programme start="20231212090000 +0100" stop="20231212113000 +0100" channel="O2 Sport">
+    <title lang="cs">ELH: HC Sparta Praha-Banes Motor České Budějovice</title>
+  </programme>
+  <programme start="20231212113000 +0100" stop="20231212130000 +0100" channel="O2 Sport">
+    <title lang="cs">TIKI-TAKA</title>
+  </programme>
+  <programme start="20231212130000 +0100" stop="20231212133000 +0100" channel="O2 Sport">
+    <title lang="cs">Česká ulička Michala Hrdličky (20/2023) - Marek Holeček</title>
+  </programme>
+  <programme start="20231212133000 +0100" stop="20231212160000 +0100" channel="O2 Sport">
+    <title lang="cs">ELH: HC Škoda Plzeň-HC Oceláři Třinec (Streaming)</title>
+  </programme>
+  <programme start="20231212160000 +0100" stop="20231212190000 +0100" channel="O2 Sport">
+    <title lang="cs">FL: AC Sparta Praha-FK Jablonec</title>
+  </programme>
+  <programme start="20231212190000 +0100" stop="20231212210000 +0100" channel="O2 Sport">
+    <title lang="cs">KFC eFootball - finále</title>
+  </programme>
+  <programme start="20231212210000 +0100" stop="20231212220000 +0100" channel="O2 Sport">
+    <title lang="cs">WRC Season Review 2023</title>
+  </programme>
+  <programme start="20231212220000 +0100" stop="20231213000000 +0100" channel="O2 Sport">
+    <title lang="cs">FL: SK Slavia Praha-FK Mladá Boleslav</title>
+  </programme>
+  <programme start="20231212090000 +0100" stop="20231212110000 +0100" channel="O2TV Fotbal">
+    <title lang="cs">FL: MFK Karviná-FK Pardubice (Streaming)</title>
+  </programme>
+  <programme start="20231212110000 +0100" stop="20231212130000 +0100" channel="O2TV Fotbal">
+    <title lang="cs">FL: 1.FC Slovácko-Bohemians Praha 1905 (Streaming)</title>
+  </programme>
+  <programme start="20231212130000 +0100" stop="20231212160000 +0100" channel="O2TV Fotbal">
+    <title lang="cs">FL: FC Viktoria Plzeň-SK Dynamo České Budějovice</title>
+  </programme>
+  <programme start="20231212160000 +0100" stop="20231212183000 +0100" channel="O2TV Fotbal">
+    <title lang="cs">FL: FC Hradec Králové-FC Baník Ostrava</title>
+  </programme>
+  <programme start="20231212183000 +0100" stop="20231212200000 +0100" channel="O2TV Fotbal">
+    <title lang="cs">TIKI-TAKA</title>
+  </programme>
+  <programme start="20231212200000 +0100" stop="20231212203000 +0100" channel="O2TV Fotbal">
+    <title lang="cs">Evropský fotbal</title>
+  </programme>
+  <programme start="20231212203000 +0100" stop="20231212223000 +0100" channel="O2TV Fotbal">
+    <title lang="cs">FL: SK Slavia Praha-FK Mladá Boleslav</title>
+  </programme>
+  <programme start="20231212223000 +0100" stop="20231213003000 +0100" channel="O2TV Fotbal">
+    <title lang="cs">FL: AC Sparta Praha-FK Jablonec</title>
+  </programme>
+  <programme start="20231212090000 +0100" stop="20231212110000 +0100" channel="O2TV Tenis">
+    <title lang="cs">WTA1000: Guadalajara Open Akron (1. čtvrtfinále)</title>
+  </programme>
+  <programme start="20231212110000 +0100" stop="20231212130000 +0100" channel="O2TV Tenis">
+    <title lang="cs">WTA1000: Guadalajara Open Akron (2. čtvrtfinále)</title>
+  </programme>
+  <programme start="20231212130000 +0100" stop="20231212150000 +0100" channel="O2TV Tenis">
+    <title lang="cs">WTA1000: Guadalajara Open Akron (3. čtvrtfinále)</title>
+  </programme>
+  <programme start="20231212150000 +0100" stop="20231212170000 +0100" channel="O2TV Tenis">
+    <title lang="cs">WTA1000: Guadalajara Open Akron (4. čtvrtfinále)</title>
+  </programme>
+  <programme start="20231212170000 +0100" stop="20231212190000 +0100" channel="O2TV Tenis">
+    <title lang="cs">WTA1000: Guadalajara Open Akron (1. semifinále)</title>
+  </programme>
+  <programme start="20231212190000 +0100" stop="20231212210000 +0100" channel="O2TV Tenis">
+    <title lang="cs">WTA1000: Guadalajara Open Akron (2. semifinále)</title>
+  </programme>
+  <programme start="20231212210000 +0100" stop="20231212230000 +0100" channel="O2TV Tenis">
+    <title lang="cs">WTA1000: Guadalajara Open Akron (finále dvouhry)</title>
+  </programme>
+  <programme start="20231212090000 +0100" stop="20231212110000 +0100" channel="Premier Sport 2">
+    <title lang="cs">EL: FC Barcelona-Fenerbahce Istanbul</title>
+  </programme>
+  <programme start="20231212110000 +0100" stop="20231212150000 +0100" channel="Premier Sport 2">
+    <title lang="cs">NFL: Baltimore Ravens-Los Angeles Rams</title>
+  </programme>
+  <programme start="20231212150000 +0100" stop="20231212190000 +0100" channel="Premier Sport 2">
+    <title lang="cs">NFL: Miami Dolphins-Tennessee Titans</title>
+  </programme>
+  <programme start="20231212190000 +0100" stop="20231212193000 +0100" channel="Premier Sport 2">
+    <title lang="cs">Týden v motorsportu</title>
+  </programme>
+  <programme start="20231212193000 +0100" stop="20231212202000 +0100" channel="Premier Sport 2">
+    <title lang="cs">Magazín Champions League</title>
+  </programme>
+  <programme start="20231212202000 +0100" stop="20231212231500 +0100" channel="Premier Sport 2">
+    <title lang="cs">LM: Manchester United-Bayern Mnichov</title>
+  </programme>
+  <programme start="20231212231500 +0100" stop="20231213000000 +0100" channel="Premier Sport 2">
+    <title lang="cs">UEFA Champions League - sestřihy</title>
+  </programme>
+  <programme start="20231212050000 +0100" stop="20231212060000 +0100" channel="Sport1">
+    <title lang="cs">Fotbal</title>
+  </programme>
+  <programme start="20231212060000 +0100" stop="20231212073000 +0100" channel="Sport1">
+    <title lang="cs">Televizní nákupy</title>
+  </programme>
+  <programme start="20231212073000 +0100" stop="20231212100000 +0100" channel="Sport1">
+    <title lang="cs">Lední hokej</title>
+  </programme>
+  <programme start="20231212100000 +0100" stop="20231212110000 +0100" channel="Sport1">
+    <title lang="cs">Televizní nákupy</title>
+  </programme>
+  <programme start="20231212110000 +0100" stop="20231212133000 +0100" channel="Sport1">
+    <title lang="cs">SuperEnduro</title>
+  </programme>
+  <programme start="20231212133000 +0100" stop="20231212140000 +0100" channel="Sport1">
+    <title lang="cs">Největší všech dob, boxeři těžké váhy</title>
+  </programme>
+  <programme start="20231212140000 +0100" stop="20231212141500 +0100" channel="Sport1">
+    <title lang="cs">Házena, Dare to Rise - Ludovic Fabregas</title>
+  </programme>
+  <programme start="20231212141500 +0100" stop="20231212163000 +0100" channel="Sport1">
+    <title lang="cs">Fotbal</title>
+  </programme>
+  <programme start="20231212163000 +0100" stop="20231212171500 +0100" channel="Sport1">
+    <title lang="cs">Fotbal</title>
+  </programme>
+  <programme start="20231212171500 +0100" stop="20231212174500 +0100" channel="Sport1">
+    <title lang="cs">Fotbal, Saudi Pro League, sestřih, 16. kolo</title>
+  </programme>
+  <programme start="20231212174500 +0100" stop="20231212203000 +0100" channel="Sport1">
+    <title lang="cs">Lední hokej</title>
+  </programme>
+  <programme start="20231212203000 +0100" stop="20231212223000 +0100" channel="Sport1">
+    <title lang="cs">Lední hokej</title>
+  </programme>
+  <programme start="20231212223000 +0100" stop="20231213010000 +0100" channel="Sport1">
+    <title lang="cs">Lední hokej</title>
+  </programme>
+  <programme start="20231212051500 +0100" stop="20231212054500 +0100" channel="Sport2">
+    <title lang="cs">Největší všech dob, fotbalové klubové týmy</title>
+  </programme>
+  <programme start="20231212054500 +0100" stop="20231212060000 +0100" channel="Sport2">
+    <title lang="cs">Házena, Dare to Rise - Ludovic Fabregas</title>
+  </programme>
+  <programme start="20231212060000 +0100" stop="20231212074500 +0100" channel="Sport2">
+    <title lang="cs">Házená</title>
+  </programme>
+  <programme start="20231212074500 +0100" stop="20231212084500 +0100" channel="Sport2">
+    <title lang="cs">Televizní nákupy</title>
+  </programme>
+  <programme start="20231212084500 +0100" stop="20231212110000 +0100" channel="Sport2">
+    <title lang="cs">Fotbal</title>
+  </programme>
+  <programme start="20231212110000 +0100" stop="20231212120000 +0100" channel="Sport2">
+    <title lang="cs">Televizní nákupy</title>
+  </programme>
+  <programme start="20231212120000 +0100" stop="20231212141500 +0100" channel="Sport2">
+    <title lang="cs">Fotbal</title>
+  </programme>
+  <programme start="20231212141500 +0100" stop="20231212144500 +0100" channel="Sport2">
+    <title lang="cs">Největší všech dob, boxeři těžké váhy</title>
+  </programme>
+  <programme start="20231212144500 +0100" stop="20231212171500 +0100" channel="Sport2">
+    <title lang="cs">SuperEnduro</title>
+  </programme>
+  <programme start="20231212171500 +0100" stop="20231212173000 +0100" channel="Sport2">
+    <title lang="cs">Házena, Dare to Rise - Ludovic Fabregas</title>
+  </programme>
+  <programme start="20231212173000 +0100" stop="20231212200000 +0100" channel="Sport2">
+    <title lang="cs">Lední hokej</title>
+  </programme>
+  <programme start="20231212200000 +0100" stop="20231212220000 +0100" channel="Sport2">
+    <title lang="cs">Lední hokej</title>
+  </programme>
+  <programme start="20231212220000 +0100" stop="20231212230000 +0100" channel="Sport2">
+    <title lang="cs">Fotbal</title>
+  </programme>
+  <programme start="20231212230000 +0100" stop="20231212234500 +0100" channel="Sport2">
+    <title lang="cs">Fotbal</title>
+  </programme>
+  <programme start="20231212234500 +0100" stop="20231213001500 +0100" channel="Sport2">
+    <title lang="cs">Fotbal, Saudi Pro League, sestřih, 16. kolo</title>
+  </programme>
+  <programme start="20231212063000 +0100" stop="20231212070000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Topspeed</title>
+  </programme>
+  <programme start="20231212070000 +0100" stop="20231212071000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Športové sekundy</title>
+  </programme>
+  <programme start="20231212071000 +0100" stop="20231212073500 +0100" channel="Arena Sport 1">
+    <title lang="cs">Topspeed</title>
+  </programme>
+  <programme start="20231212073500 +0100" stop="20231212080000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Motoring</title>
+  </programme>
+  <programme start="20231212080000 +0100" stop="20231212093000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Autožurnál</title>
+  </programme>
+  <programme start="20231212093000 +0100" stop="20231212103000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Motoring</title>
+  </programme>
+  <programme start="20231212103000 +0100" stop="20231212110000 +0100" channel="Arena Sport 1">
+    <title lang="cs">MM Automotive</title>
+  </programme>
+  <programme start="20231212110000 +0100" stop="20231212114500 +0100" channel="Arena Sport 1">
+    <title lang="cs">Profíci na konské sily - Obytné auto</title>
+  </programme>
+  <programme start="20231212114500 +0100" stop="20231212123000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Zachytáme s Rybostrojem</title>
+  </programme>
+  <programme start="20231212123000 +0100" stop="20231212130000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Topspeed</title>
+  </programme>
+  <programme start="20231212130000 +0100" stop="20231212133000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Výběrová auta</title>
+  </programme>
+  <programme start="20231212133000 +0100" stop="20231212140000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Vytuningované jazdy Fínsko</title>
+  </programme>
+  <programme start="20231212140000 +0100" stop="20231212143000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Autožurnál</title>
+  </programme>
+  <programme start="20231212143000 +0100" stop="20231212151500 +0100" channel="Arena Sport 1">
+    <title lang="cs">Luxusné auta z Hamburgu</title>
+  </programme>
+  <programme start="20231212151500 +0100" stop="20231212160000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Rýchle jazdy</title>
+  </programme>
+  <programme start="20231212160000 +0100" stop="20231212163000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Motoring</title>
+  </programme>
+  <programme start="20231212163000 +0100" stop="20231212171500 +0100" channel="Arena Sport 1">
+    <title lang="cs">Autožurnál</title>
+  </programme>
+  <programme start="20231212171500 +0100" stop="20231212175000 +0100" channel="Arena Sport 1">
+    <title lang="cs">MM Automotive</title>
+  </programme>
+  <programme start="20231212175000 +0100" stop="20231212180000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Majster volantu 2023</title>
+  </programme>
+  <programme start="20231212180000 +0100" stop="20231212184500 +0100" channel="Arena Sport 1">
+    <title lang="cs">Profíci na konské sily - Malé auto so silným motorom</title>
+  </programme>
+  <programme start="20231212184500 +0100" stop="20231212191500 +0100" channel="Arena Sport 1">
+    <title lang="cs">Výběrová auta</title>
+  </programme>
+  <programme start="20231212191500 +0100" stop="20231212194500 +0100" channel="Arena Sport 1">
+    <title lang="cs">Motoring</title>
+  </programme>
+  <programme start="20231212194500 +0100" stop="20231212203000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Za rybami světových moří - Norsko</title>
+  </programme>
+  <programme start="20231212203000 +0100" stop="20231212213000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Autožurnál</title>
+  </programme>
+  <programme start="20231212213000 +0100" stop="20231212220000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Motoring</title>
+  </programme>
+  <programme start="20231212220000 +0100" stop="20231212223000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Výběrová auta</title>
+  </programme>
+  <programme start="20231212223000 +0100" stop="20231212231500 +0100" channel="Arena Sport 1">
+    <title lang="cs">Profíci na konské sily</title>
+  </programme>
+  <programme start="20231212231500 +0100" stop="20231213000000 +0100" channel="Arena Sport 1">
+    <title lang="cs">Záchrancovia klasických áut</title>
+  </programme>
+  <programme start="20231212080000 +0100" stop="20231212083000 +0100" channel="Arena Sport 2">
+    <title lang="cs">Výberové autá</title>
+  </programme>
+  <programme start="20231212083000 +0100" stop="20231212090000 +0100" channel="Arena Sport 2">
+    <title lang="cs">MM Automotive</title>
+  </programme>
+  <programme start="20231212090000 +0100" stop="20231212093000 +0100" channel="Arena Sport 2">
+    <title lang="cs">Zachytáme s Rybostrojem</title>
+  </programme>
+  <programme start="20231212093000 +0100" stop="20231212100000 +0100" channel="Arena Sport 2">
+    <title lang="cs">Lovci nákladiakov</title>
+  </programme>
+  <programme start="20231212100000 +0100" stop="20231212104500 +0100" channel="Arena Sport 2">
+    <title lang="cs">Záchrancovia klasických aut</title>
+  </programme>
+  <programme start="20231212104500 +0100" stop="20231212111500 +0100" channel="Arena Sport 2">
+    <title lang="cs">Nehody za volantom</title>
+  </programme>
+  <programme start="20231212111500 +0100" stop="20231212114500 +0100" channel="Arena Sport 2">
+    <title lang="cs">Vytuningované jazdy Fínsko</title>
+  </programme>
+  <programme start="20231212114500 +0100" stop="20231212121500 +0100" channel="Arena Sport 2">
+    <title lang="cs">Výberové autá</title>
+  </programme>
+  <programme start="20231212121500 +0100" stop="20231212141500 +0100" channel="Arena Sport 2">
+    <title lang="cs">KV KORTRIJK - KVC WESTERLO</title>
+  </programme>
+  <programme start="20231212141500 +0100" stop="20231212144500 +0100" channel="Arena Sport 2">
+    <title lang="cs">Nesmrteľní - Carl Lewis</title>
+  </programme>
+  <programme start="20231212144500 +0100" stop="20231212151500 +0100" channel="Arena Sport 2">
+    <title lang="cs">Slávni tréneri - Trapattoni</title>
+  </programme>
+  <programme start="20231212151500 +0100" stop="20231212154500 +0100" channel="Arena Sport 2">
+    <title lang="cs">Tímy snov - Davis Cup tím Španielska</title>
+  </programme>
+  <programme start="20231212154500 +0100" stop="20231212163000 +0100" channel="Arena Sport 2">
+    <title lang="cs">Celebritné preteky na kolesách</title>
+  </programme>
+  <programme start="20231212163000 +0100" stop="20231212183000 +0100" channel="Arena Sport 2">
+    <title lang="cs">RSC ANDERLECHT - STANDARD DE LIEGE</title>
+  </programme>
+  <programme start="20231212183000 +0100" stop="20231212190000 +0100" channel="Arena Sport 2">
+    <title lang="cs">MM Automotive</title>
+  </programme>
+  <programme start="20231212190000 +0100" stop="20231212200000 +0100" channel="Arena Sport 2">
+    <title lang="cs">Topspeed</title>
+  </programme>
+  <programme start="20231212200000 +0100" stop="20231212220000 +0100" channel="Arena Sport 2">
+    <title lang="cs">SL Benfica - Farense</title>
+  </programme>
+  <programme start="20231212220000 +0100" stop="20231212223000 +0100" channel="Arena Sport 2">
+    <title lang="cs">Topspeed</title>
+  </programme>
+  <programme start="20231212223000 +0100" stop="20231212230000 +0100" channel="Arena Sport 2">
+    <title lang="cs">Autožurnál</title>
+  </programme>
+  <programme start="20231212230000 +0100" stop="20231213000000 +0100" channel="Arena Sport 2">
+    <title lang="cs">Za rybami světových moří - Seychely</title>
+  </programme>
+  <programme start="20231212054000 +0100" stop="20231212061500 +0100" channel="JOJ">
+    <title lang="cs">Krimi</title>
+  </programme>
+  <programme start="20231212061500 +0100" stop="20231212083500 +0100" channel="JOJ">
+    <title lang="cs">Ranné noviny</title>
+  </programme>
+  <programme start="20231212083500 +0100" stop="20231212095000 +0100" channel="JOJ">
+    <title lang="cs">Bez servítky</title>
+  </programme>
+  <programme start="20231212095000 +0100" stop="20231212120000 +0100" channel="JOJ">
+    <title lang="cs">Súdna sieň</title>
+  </programme>
+  <programme start="20231212120000 +0100" stop="20231212125000 +0100" channel="JOJ">
+    <title lang="cs">Noviny o 12:00</title>
+  </programme>
+  <programme start="20231212125000 +0100" stop="20231212132000 +0100" channel="JOJ">
+    <title lang="cs">Tomáš a Diana</title>
+  </programme>
+  <programme start="20231212132000 +0100" stop="20231212143000 +0100" channel="JOJ">
+    <title lang="cs">Bez servítky</title>
+  </programme>
+  <programme start="20231212143000 +0100" stop="20231212153000 +0100" channel="JOJ">
+    <title lang="cs">Geissenovci - Ťažký život milionárov XXI</title>
+  </programme>
+  <programme start="20231212153000 +0100" stop="20231212155000 +0100" channel="JOJ">
+    <title lang="cs">Top Star</title>
+  </programme>
+  <programme start="20231212155000 +0100" stop="20231212163000 +0100" channel="JOJ">
+    <title lang="cs">Riskuj</title>
+  </programme>
+  <programme start="20231212163000 +0100" stop="20231212175000 +0100" channel="JOJ">
+    <title lang="cs">Nákupné maniačky</title>
+  </programme>
+  <programme start="20231212175000 +0100" stop="20231212190000 +0100" channel="JOJ">
+    <title lang="cs">Bez servítky</title>
+  </programme>
+  <programme start="20231212190000 +0100" stop="20231212193000 +0100" channel="JOJ">
+    <title lang="cs">Krimi</title>
+  </programme>
+  <programme start="20231212193000 +0100" stop="20231212202000 +0100" channel="JOJ">
+    <title lang="cs">Noviny TV JOJ</title>
+  </programme>
+  <programme start="20231212202000 +0100" stop="20231212203000 +0100" channel="JOJ">
+    <title lang="cs">Šport</title>
+  </programme>
+  <programme start="20231212203000 +0100" stop="20231212204000 +0100" channel="JOJ">
+    <title lang="cs">Najlepšie počasie</title>
+  </programme>
+  <programme start="20231212204000 +0100" stop="20231212215000 +0100" channel="JOJ">
+    <title lang="cs">Nemocnica</title>
+  </programme>
+  <programme start="20231212215000 +0100" stop="20231212234000 +0100" channel="JOJ">
+    <title lang="cs">Láska hory prenáša</title>
+  </programme>
+  <programme start="20231212234000 +0100" stop="20231213004000 +0100" channel="JOJ">
+    <title lang="cs">Myšlienky vraha</title>
+  </programme>
+</tv>
